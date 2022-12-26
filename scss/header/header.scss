@@ -1,0 +1,40 @@
+header {
+    margin: auto;
+
+
+    .about-school-text {
+        text-align: center;
+        margin-right: 650px;
+        position: relative;
+        bottom: 80px;
+        font-size: 14px;
+        // margin: 0px 550px 200px 0px;
+        &:hover {
+            cursor: pointer;
+        }
+    }
+    .call-back {
+        margin-left: 600px;
+        position: relative;
+        bottom: 170px;
+        font-size: 14px;
+        color: black;
+        p {
+            a {
+                font-size: 17px;
+                color: #007698; 
+            }
+        }
+        .mail {
+            position: relative;
+            bottom: 15px;
+        }
+    }
+    .logo-sauran {
+        .image {
+            margin-left: 1150px;
+            position: relative;
+            bottom: 370px;
+        }
+    }
+}
